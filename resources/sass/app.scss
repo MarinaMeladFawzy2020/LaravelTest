@@ -1,0 +1,8 @@
+//
+$mainColor : #eee;
+
+body{
+    background-color: $mainColor;
+}
+
+@import "./layout/navbar";
